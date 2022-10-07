@@ -1,7 +1,7 @@
 {
-  "name": "kudos-paper-builder",
+  "name": "rfcs",
   "version": "1.0.0",
-  "description": "Adds a title, etc to the head to keep it rendering ok on GitHub but also rendering a PDF.",
+  "description": "collection of rfcs",
   "main": "index.js",
   "scripts": {
     "build": "npm run build:mermaid && npm run build:pdf && npm run build:html",
