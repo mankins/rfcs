@@ -1,4 +1,4 @@
-# Kudos RFCs
+# RFCs
 
 This repository contains a collection of various specifications, documentation, and ideas from @mankins. 
 
